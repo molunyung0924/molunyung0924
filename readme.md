@@ -1,6 +1,10 @@
 {{Expert}}
+
 {{Infobox_vcelebrity
 |name = 慕容公子
+|date_of_birth = 1992年9月24日
+|events           = 案底編號：新北市第111年度偵字第14095號（檢察機關）；第111年度訴字第845號（刑事訴訟）<ref name="photo2020_indictment"/>
+| case_number  = 新北市第111年度偵字第14095號；第111年度訴字第845號
 |image name = Screenshot 2025-02-18 192546.png
 |community = [[Facebook]]<br />[[YouTube]]<br />[[Twitch]]
 |othername = 慕容<br />慕容MoYung<br />慕容嘉亮<br />慕容寶寶
@@ -17,9 +21,9 @@
 |userbox2 = {{User YouTube}}
 |userbox3 = {{爭議性人事}} 
 |width = 250px
-}}
+|userbox4=}}
 
-「'''慕容公子'''」（本名容嘉亮，1992年9月24日出生），案底編號：新北市第111年度偵字第14095號（檢察機關）、第111年度訴字第845號（刑事訴訟）<ref name="photo2020_indictment" />。與父母同住，現居香港屯門公共屋邨良景邨<ref name="lihkglive1" /><ref name="lihkglive2" />；早年主要透過在 YouTube 上傳《英雄聯盟》等遊戲影片嶄露頭角<ref name="YTstart2013" />，亦曾直播遊戲實況，並以直率、情緒化且常與觀眾或同行爆發口角的風格聞名。2014 年開始直播<ref name="YTfans2014" /><ref name="KOLChat2017" />；2015 年在一場《英雄聯盟》『單挑事件』中擊敗辱罵港人的對手而嶄露頭角<ref name="duel_2015_forum" /><ref name="duel_2015_recap" />。
+「'''慕容公子'''」，本名'''容嘉亮'''，與父母同住，現居香港屯門公共屋邨良景邨<ref name="lihkglive1" /><ref name="lihkglive2" />；早年主要透過在 YouTube 上傳《英雄聯盟》等遊戲影片嶄露頭角<ref name="YTstart2013" />，亦曾直播遊戲實況，並以直率、情緒化且常與觀眾或同行爆發口角的風格聞名。2014 年開始直播<ref name="YTfans2014" /><ref name="KOLChat2017" />；2015 年在一場《英雄聯盟》『單挑事件』中擊敗辱罵港人的對手而嶄露頭角<ref name="duel_2015_forum" /><ref name="duel_2015_recap" />。
 
 自 2020 年起，他屢涉爭議：同年先後與「屎家軍」、伍仔等多名 KOL 反目並遭業界邊緣化<ref name="slime2020_HK01" /><ref name="ng2020_forum" />；同年 8 月散布女實況主私照，2023 年 12 月被新北地方法院判刑 1 年 2 個月<ref name="photo2020_indictment" /><ref name="photo2023_verdict" />；2021–2023 年間又被指於 Telegram、Discord 招攬外圍投注<ref name="gamble2021_forum" /><ref name="gamble2023_discuss" />。此外，2023 年他自稱「破產」需籌款還債<ref name="finance2023_IG" /><ref name="finance2023_reactions" />，2025 年再以高額借款豪賭並傳出巨額虧損<ref name="2025gamble" />。綜上，其社交破產、人格破產、金融破產的行徑備受詬病，有網民因此戲稱他為「三破」代表<ref name="return2024_community" />。  
 
@@ -28,40 +32,34 @@
 == 單挑「屁孩」事件（2015年） ==
 2015年7月，慕容公子在《英雄聯盟》排名賽落敗後，與隊友「Melancholil」在戰後聊天室互罵。對方先是挑釁並侮辱香港人，要求單挑。最終單挑結果由慕容公子勝出，而Melancholil事後卻聲稱是被香港人看不起等，旋即引發兩地玩家熱議。不少香港網民因該場鬥嘴而短暫視慕容公子為「抵抗台灣玩家歧視」的代表性人物<ref name="duel_2015_forum" /><ref name="duel_2015_recap" />。
 
-== YouTuber圈衝突（2020年） == 
+== 網上散布欠缺證據，名譽損毀的言論（2020年-2023年） == 
 
-==== 1. 與「屎家軍」之衝突（2020年） ====
-2020年5月，慕容公子在YouTube發布影片，指稱另一YouTuber「屎萊姆」及其所屬「屎家軍」壟斷香港YouTuber市場並控制網絡輿論。當中牽涉英皇娛樂及CGA（Cyber Games Arena）的電競合作案，與鍾培生、Hidy、Deer Chan等多位KOL亦被點名。事件引發部分觀眾抵制，也有網民質疑慕容「大做文章」。此後，慕容與其他主流香港YouTuber關係日趨惡劣，基本上遭業界邊緣化<ref name="slime2020_HK01" /><ref name="slime2020_HK01_detail" /><ref name="slime2020_reactions" /><ref name="slime2020_forum" /><ref name="slime2020_Dcard2025" />。
+=== 1. 虛構「屎家軍」，毀謗其他 YouTuber 及相關合作人士存利益輸送關係（2020年） ===
+2020 年 5 月，慕容公子於 YouTube 上傳影片〈屎家軍壟斷論〉，指稱另一 YouTuber「屎萊姆」及其支持者「屎家軍」壟斷香港 YouTuber 市場並操控網絡輿論；影片同時點名英皇娛樂、CGA（Cyber Games Arena）以及鍾培生、Hidy、Deer Chan 等多名 KOL 涉及「利益輸送」。影片發布後引發觀眾抵制亦遭質疑「大做文章」，慕容與主流香港 YouTuber 關係遂趨惡劣，並被視為業界邊緣人物。<ref name="slime2020_HK01" /><ref name="slime2020_HK01_detail" /><ref name="slime2020_reactions" /><ref name="slime2020_forum" /><ref name="slime2020_Dcard2025" />
 
 {{clear}}
 
-有關指控一出，網民大吃花生；有人稱要杯葛「屎家軍」相關的YouTuber，不過亦有人反問是否「一竹篙打一船人」。亦有網民不滿連登熱門充斥「屎家軍」討論，認為大眾應集中關注其他社會議題。2025年初，有Dcard用戶回顧此舊事，認為該衝突是香港YouTuber圈「早期大戰」的代表案例，並質疑這些KOL互相攻訐所帶來的實質影響力並不如想像中強<ref name="slime2020_forum" /><ref name="slime2020_Dcard2025" />。
+事件初期網民議論熱烈；雖有人杯葛「屎家軍」，亦有人反對「一竹篙打一船人」。2025 年初，Dcard 用戶回顧此衝突，稱其為香港 YouTuber 圈「早期大戰」，並指出互罵對業界實質影響有限。<ref name="slime2020_forum" /><ref name="slime2020_Dcard2025" />
 
-<gallery widths=\"620\"> 
-檔案:sika.png|原影片已下架。在原影片中，慕容嘉亮用畫線來指控屎萊姆，而資料來源是自己。 
-檔案:472661498_583018577986729_1039750075969566248_n.jpg|有網民以慕容嘉亮的表達形式，去描述慕容嘉亮自己同樣是壟斷利益，控制輿論。慕容本人並未公開回應相關細節。 
+<gallery widths="620">
+File:Sika.png|link=|center|原影片已下架；截圖顯示慕容以紅線標示所謂「壟斷網絡」結構，但未提供第三方來源。 
+File:472661498_583018577986729_1039750075969566248_n.jpg|link=|center|有網民諷刺慕容也以相同方式壟斷輿論，慕容本人未回應。 
 </gallery>
 
-<embedvideo service="youtube" width="400" align="center" description="屎萊姆其後詳列所有證據證明慕容公子無中生有。"> 2PXbW6sZ_As </embedvideo>
+<embedvideo service="youtube" width="400" align="center" description="屎萊姆後續影片列舉文件反駁慕容指控（已存檔）。">2PXbW6sZ_As</embedvideo>
 
-=== 2. 與 Yaki Wong、Bob叔之「讀書論戰」（2020年） ===
-2020年期間，慕容公子及同輩KOL Yaki Wong曾在直播或影片中提出「讀書不一定有用」的觀點，舉例指大學生出路未必比早早投身YouTube、直播行業的收入更優渥。資深KOL Bob叔則批評此觀點會誤導青少年，認為將「不讀書」合理化不但危險，且會令部分學生誤解學歷的重要性。慕容事後回應表示並非全盤否定讀書，而是反對盲目遵循傳統路線，然而雙方觀點仍產生明顯衝突；網上對此爭議也呈現正反兩極<ref name="study2020_LIHKG" /><ref name="study2020_Wiki" /><ref name="study2020_reactions" />。<ref name="2020_noisy" />
 
-同年，針對這場「讀書論戰」在網絡上引發的效應，亦有人發文質疑「點解會有YouTuber鼓勵人唔讀書」。發文者擔憂部分青少年觀眾對社會現實理解不足，可能曲解慕容的言論而草率放棄課業。也有用戶指出，慕容本意或許只是分享實際就業競爭現況，但其激烈言詞容易引發誤導和爭議。對於「讀書」與「踏實工作」的優先次序問題，雙方陣營一直各執一詞<ref name="study2020_cookman" />。
 
-<gallery widths="310">
-Sddefault13.jpg
+及後，李月蓮教授於 2022 年 3 月 26 日公開講座《和你的子女一起辨識資訊真偽》<ref name="li_2022_misinformation" />，指出在人人皆為內容生產者的新媒體環境下，惡意「虛假訊息」（disinformation）較以往更易透過社交網絡爆紅，進而誤導兒童及青少年——包括扭曲價值觀、煽動恐慌行為及削弱對專業人士的信任。
+
+為提升家庭層面的媒體素養，李教授提出「辨別真假資訊六步曲」。她以網紅 「MoYung 慕容公子」的 2020 年影片〈屎家軍壟斷論〉作實戰示範：影片未列明可靠證據，僅以自製示意圖渲染「壟斷」與「利益輸送」，並鼓動觀眾立即轉發。六步曲檢視下，該片在「來源」「內容」「影像」與「分享」等環節皆缺乏第三方佐證，屬「情緒先行、驗證缺位」的高風險案例，充分體現假訊息對青少年的滲透與影響。
+
+<gallery mode="packed" heights="240">
+File:Prof_Li_HealthySeed.jpg|link=|center|<small>「對應不良資訊，由家庭傳媒教育做起」宣傳海報（2022）。右下為講者——香港浸會大學新聞系教授 <b>李月蓮</b>。</small>
+File:Prof_Li_MoYung_PPT.png|link=|center|<small>《和你的子女一起辨識資訊真偽》簡報截圖。左：封面；右：第 14–21 頁示範「辨別真假資訊六步曲」，並引用 <i>MoYung 慕容公子</i> 為案例。</small>
 </gallery>
 
-=== 3. 與伍仔的網上罵戰（2020年） ===
-另一邊，香港時事網評人伍仔（本名伍博頤）多次在影片和社群貼文中狙擊慕容公子，包含慕容揭發「屎家軍」一事。伍仔認為慕容先以政治、利益為由炒作，後又企圖撇清政治立場，是「不老實行為」。慕容則於Facebook發文強調揭露電競圈黑幕並非私仇。雙方支持者在多個平台爆發論戰，也有人質疑伍仔「只想蹭話題」。此衝突在2020年中期達到高峰，後來隨著慕容轉往台灣發展而逐漸冷卻<ref name="ng2020_fb" /><ref name="ng2020_forum" /><ref name="ng2020_peak" /><ref name="ng2020_fbpost" />。
-
-<gallery widths="310">
-Sddefault12.jpg
-</gallery>
-
-
-== 散布女實況主私照爭議（2020-2023年） ==
+=== 2. 散布女實況主私照爭議（2020-2023年） ===
 2020年8月，慕容公子於社交平台（主要是Facebook、Instagram及Telegram）上載一位香港女電競實況主的私人床照，並於貼文中影射該名實況主曾從事不當夜場工作，並暗示疑似有「潛規則」行為。事後，該名女實況主提出告訴，指稱慕容公子在未經同意的情況下散布裸露私照並對其名譽造成重大傷害<ref name="photo2020_indictment" />。
 
 案經臺灣新北地方檢察署偵查後，依妨害祕密及誹謗等罪名提起公訴（111年度偵字第14095號）<ref name="photo2020_indictment" />。2023年12月26日，臺灣新北地方法院（111年度訴字第845號刑事判決）一審認定慕容公子（判決書中稱「甲○○」）共同犯散布文字、圖畫而毀謗他人名譽，判處有期徒刑1年2個月，並宣告沒收犯罪所使用的通訊設備（iPhone 11手機）<ref name="photo2023_verdict" />。判決指出，被告與群組成員共同散布多張女實況主的裸露隱私照片，並搭配「網上流傳A女從事過夜總會」等文字，屬涉於私德且與公共利益無關，確已貶損當事人社會評價，行為惡劣，故不予輕縱。  
@@ -70,6 +68,26 @@ Sddefault12.jpg
 
 <gallery widths="310">
 Screenshot 2025-02-17 230339.png
+</gallery>
+
+
+
+== 其他YouTuber圈衝突（2020年） == 
+
+=== 1. 與 Yaki Wong、Bob叔之「讀書論戰」（2020年） ===
+2020年期間，慕容公子及同輩KOL Yaki Wong曾在直播或影片中提出「讀書不一定有用」的觀點，舉例指大學生出路未必比早早投身YouTube、直播行業的收入更優渥。資深KOL Bob叔則批評此觀點會誤導青少年，認為將「不讀書」合理化不但危險，且會令部分學生誤解學歷的重要性。慕容事後回應表示並非全盤否定讀書，而是反對盲目遵循傳統路線，然而雙方觀點仍產生明顯衝突；網上對此爭議也呈現正反兩極<ref name="study2020_LIHKG" /><ref name="study2020_Wiki" /><ref name="study2020_reactions" />。<ref name="2020_noisy" />
+
+同年，針對這場「讀書論戰」在網絡上引發的效應，亦有人發文質疑「點解會有YouTuber鼓勵人唔讀書」。發文者擔憂部分青少年觀眾對社會現實理解不足，可能曲解慕容的言論而草率放棄課業。也有用戶指出，慕容本意或許只是分享實際就業競爭現況，但其激烈言詞容易引發誤導和爭議。對於「讀書」與「踏實工作」的優先次序問題，雙方陣營一直各執一詞<ref name="study2020_cookman" />。
+
+<gallery widths="310">
+Sddefault13.jpg
+</gallery>
+
+=== 2. 與伍仔的網上罵戰（2020年） ===
+另一邊，香港時事網評人伍仔（本名伍博頤）多次在影片和社群貼文中狙擊慕容公子，包含慕容揭發「屎家軍」一事。伍仔認為慕容先以政治、利益為由炒作，後又企圖撇清政治立場，是「不老實行為」。慕容則於Facebook發文強調揭露電競圈黑幕並非私仇。雙方支持者在多個平台爆發論戰，也有人質疑伍仔「只想蹭話題」。此衝突在2020年中期達到高峰，後來隨著慕容轉往台灣發展而逐漸冷卻<ref name="ng2020_fb" /><ref name="ng2020_forum" /><ref name="ng2020_peak" /><ref name="ng2020_fbpost" />。
+
+<gallery widths="310">
+Sddefault12.jpg
 </gallery>
 
 
@@ -433,6 +451,10 @@ Twitch 片段《底線爆料：慕容響越南俾人雞姦》，Cyrus Tse 頻道
 
 <ref name="clip2025_assault2">
 Twitch 片段《底線爆料：慕容響越南俾人雞姦（２）》，Cyrus Tse 頻道，2025-01-17，長度 1:48；URL：<nowiki>https://www.twitch.tv/cyrustse_/clip/PlumpNeighborlyPotatoBabyRage-nMnbvxEZszcSL9vM</nowiki>（2025-05-07 取存）。
+</ref>
+
+<ref name="li_2022_misinformation">
+李月蓮 (26 March 2022). 《和你的子女一起辨識資訊真偽》 [PDF: https://parent.edcity.hk/wp-content/uploads/2023/09/clean-version-%E5%92%8C%E4%BD%A0%E7%9A%84%E5%AD%90%E5%A5%B3%E4%B8%80%E8%B5%B7%E8%BE%A8%E8%AD%98%E8%B3%87%E8%A8%8A%E7%9C%9F%E5%81%BD.pdf]. 香港浸會大學新聞系公開講座. pp.13–16.
 </ref>
 
 </references>
